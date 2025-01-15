@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Empresa
+comment1.params=servicio
+comment1.target=void\ addServicio(Servicio)
+comment2.params=
+comment2.target=java.util.List\ getServicios()
+comment3.params=operador
+comment3.target=void\ addOperador(Operador)
+comment4.params=
+comment4.target=UnidadAtencion\ getUnidadAtencion()
+numComments=5

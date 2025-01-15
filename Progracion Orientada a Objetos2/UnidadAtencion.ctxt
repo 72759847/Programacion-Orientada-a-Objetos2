@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=UnidadAtencion
+comment1.params=operador
+comment1.target=void\ addOperador(Operador)
+comment2.params=
+comment2.target=java.util.List\ getOperadores()
+comment3.params=nombre
+comment3.target=Operador\ buscarOperador(java.lang.String)
+numComments=4
